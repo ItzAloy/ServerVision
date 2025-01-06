@@ -36,7 +36,7 @@ Kami menyambut kontribusi dari komunitas! Jika Anda memiliki ide atau ingin mena
 2. Buat branch baru untuk perubahan Anda.  
 3. Ajukan pull request dengan deskripsi perubahan yang Anda lakukan.  
 
-Pastikan untuk membaca panduan kontribusi di [CONTRIBUTING.md](#)
+Pastikan untuk membaca panduan kontribusi di [CONTRIBUTING.md](https://github.com/ItzAloy/ServerVision/blob/main/CONTRIBUTING.md)
 
 ## 📜 **Lisensi**  
 Modpack ini dirilis di bawah lisensi [MIT License](https://opensource.org/licenses/MIT). Anda bebas untuk menggunakan, memodifikasi, dan mendistribusikan ulang dengan syarat yang sesuai.  
