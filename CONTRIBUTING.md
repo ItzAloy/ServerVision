@@ -12,5 +12,5 @@ Klik tombol **Fork** di bagian kanan atas halaman ini untuk membuat salinan repo
 ### 2. **Clone Repository**  
 Clone repository yang sudah Anda fork ke komputer lokal Anda:  
 ```bash
-git clone https://github.com/username/ServerVision.git
+git clone https://github.com/ItzAloy/ServerVision.git
 cd ServerVision
